@@ -1,10 +1,8 @@
-﻿using System;
-using System.IO;
-using System.Text;
+﻿using System.IO;
 using Newtonsoft.Json;
 using Xunit;
 
-namespace QueryParser
+namespace QueryParser.Tests
 {
     public class ParserTests
     {

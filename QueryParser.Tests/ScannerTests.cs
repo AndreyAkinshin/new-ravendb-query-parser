@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace QueryParser
+namespace QueryParser.Tests
 {
     public class ScannerTests
     {
